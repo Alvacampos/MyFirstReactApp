@@ -1,0 +1,12 @@
+button{
+  appearance: button;
+  text-decoration: none;
+  color: initial;
+  padding: 5px 10px;
+  margin: 2px;
+  cursor: pointer;
+}
+
+.navBar{ 
+  background-color: #4267b2; 
+}

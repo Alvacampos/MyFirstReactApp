@@ -1,0 +1,17 @@
+.App {
+  margin: 10px;
+  text-align: center;
+  border: solid;
+  background-color: #e9ebee; 
+  opacity: 0.9; 
+}
+
+.red{
+  color:red;
+}
+
+.bold{
+  font-weight: bold;
+  border:solid;
+  overflow: hidden;
+}
